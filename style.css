@@ -1,0 +1,25 @@
+.header{
+    display:flex;
+    background-color:lawngreen;
+    justify-content: center;
+
+}
+
+.links{
+    background-color:lawngreen
+
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 2000px;
+    width:800px;
+}
